@@ -9,6 +9,11 @@ https://github.com/KaetzelLab/Open-MAC.git
 #### Single optic fiber and SPI cable for Ephys
 
 
+#### Double optic fiber
+<p align="Left">    
+    <img src="https://github.com/KaetzelLab/Open-MAC-opto-ephys-commutator/assets/71041273/e08765ae-2a2b-41dd-8a0d-813f641dc5c3", width="400"/>
+</p>
+
 # Citation
 If you find this repository and documents useful cite us as 
 
